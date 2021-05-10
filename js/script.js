@@ -1,3 +1,5 @@
+
+// scchimb numele clasei in fuctie de ID
 var doCoolStuff = function(){
 	var currentClassName = document.getElementById('cool').className;
 
